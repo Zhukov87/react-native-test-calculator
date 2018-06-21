@@ -1,0 +1,4 @@
+export const PRESS_NUMBER = 'PRESS_NUMBER';
+export const PRESS_OPERATION = 'PRESS_OPERATION';
+export const PRESS_RESULT = 'PRESS_RESULT';
+export const CLEAR_ALL = 'CLEAR_ALL';
